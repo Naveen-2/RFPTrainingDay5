@@ -6,11 +6,12 @@ public class SwapNumbers {
     public static void main(String[] args)
 	{
         Scanner input = new Scanner(System.in);
-        System.out.println("Enter number a: ");
+        System.out.print("Enter number a: ");
 		int a = input.nextInt();
-        System.out.println("Enter number b: ");
-        int n = input.nextInt();
-        System.out.println("Value of a is " + x	+ " and Value of b is " + y + " before swapping.");
+        System.out.print("Enter number b: ");
+        int b = input.nextInt();
+        input.close();
+        System.out.println("Value of a is " + a	+ " and Value of b is " + b + " before swapping.");
 		swap(a, b);
 	}
 	
