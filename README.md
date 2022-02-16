@@ -9,3 +9,5 @@
 ##New Program to find prime factors of a number.
 
 ## Program to find quotient and remainder of given number.
+
+## Swapping two numbers program is added.
