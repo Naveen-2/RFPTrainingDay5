@@ -5,3 +5,5 @@
 ##Power of 2 tables program executed
 
 ##Added program to find Nth harmonic value in new branch.
+
+##New Program to find prime factors of a number.
