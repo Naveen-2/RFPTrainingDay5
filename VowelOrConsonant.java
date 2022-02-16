@@ -3,7 +3,6 @@ import java.util.*;
 public class VowelOrConsonant{
 	
 	public static void main (String[] args){
-		System.out.println("Exercise 2.4.1: Program to Check Vowel or Consonant");
 		System.out.print("Enter an alphabet: ");
 		Scanner input = new Scanner(System.in);
 		boolean isVowel=false;;
