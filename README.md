@@ -17,3 +17,5 @@
 ## Check if you entered a vowel or consonant
 
 ## Largest of 3 numbers program updated to new branch
+
+## All functional programs in day5 assignments are done and uploaded to FunctionalPrograms branch
